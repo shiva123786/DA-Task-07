@@ -40,7 +40,13 @@ It is designed as a productivity-boosting single-page application.
 
 ---
 
+## Task Home Page
+<img width="1902" height="864" alt="Screenshot 2025-12-30 211458" src="https://github.com/user-attachments/assets/a967111e-0560-46e6-b0cb-e0dadd2b4d83" />
+
+
 ## 📂 Project Structure
+
+```text
 Task-07/
 │
 ├── public/
